@@ -1,8 +1,11 @@
 # Screen Recorder
 Quick native application for recording screen based on electronJs and electron forge
 
-<img src="images/Screenshot.png" width="600"/>
-
+<p align="center">
+  <kbd>
+    <img src="images/Screenshot.png" width="400"/>
+  </kbd>
+</p>
 ## develop
 npm start
 
