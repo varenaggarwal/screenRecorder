@@ -6,6 +6,8 @@ Quick native application for recording screen based on electronJs and electron f
     <img src="images/Screenshot.png" width="400"/>
   </kbd>
 </p>
+
+
 ## develop
 npm start
 
