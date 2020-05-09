@@ -11,8 +11,9 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
-    webPreferences:{
-      nodeIntegration : true,
+    webPreferences: {
+      nodeIntegration: true,
+      devTools: false
     }
   });
 
@@ -27,7 +28,6 @@ const createWindow = () => {
 // initialization and is ready to create browser windows.
 // Some APIs can only be used after this event occurs.
 app.on('ready', createWindow);
-
 
 // Quit when all windows are closed.
 app.on('window-all-closed', () => {
