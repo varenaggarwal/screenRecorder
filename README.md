@@ -13,4 +13,5 @@ npm start
 
 ## build
 npm run make
+
 it will create the native application on the platform on which it is run
