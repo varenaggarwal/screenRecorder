@@ -9,9 +9,9 @@ Quick native application for recording screen based on electronJs and electron f
 
 
 ## develop
-npm start
+`npm start`
 
 ## build
-npm run make
+`npm run make`
 
 it will create the native application on the platform on which it is run
